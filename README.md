@@ -1,2 +1,12 @@
 # lin_models_presentation
-educational project
+
+Учебный проект по курсу "Линейные модели и их презентация" от AI Education.
+
+###
+
+Проект прогнозирования откликов на рекламный акции банков.
+
+### Author 
+* Илья Березуцкий
+* t.me/nedokormysh
+* e-mail: nedokormysh@live.com
