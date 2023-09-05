@@ -44,6 +44,7 @@
 * построены графики распределений
 
 📣 Веб-сервис: https://linmodelspresentation-l7ec3kme5gckddsm9oqpqj.streamlit.app
+
 🔭 Ноутбук с полноценным анализом: https://github.com/nedokormysh/lin_models_presentation/blob/eda_streamlit/EDA.ipynb
 
 ### Автор 
