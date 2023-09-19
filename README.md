@@ -43,7 +43,7 @@
 * исследованы некорректные значения, дубликаты
 * построены графики распределений
 
-📣 Веб-сервис: https://linmodelspresentation-l7ec3kme5gckddsm9oqpqj.streamlit.app
+📣 [Веб-сервис c EDA](https://linmodelspresentation-l7ec3kme5gckddsm9oqpqj.streamlit.app)
 
 🔭 [Ноутбук с полноценным анализом](https://github.com/nedokormysh/lin_models_presentation/blob/eda_streamlit/EDA.ipynb) 
 
@@ -54,6 +54,7 @@
 * также построены модели catboost, lightgbm для сравнения с результатом логистической регрессии
 
 🔭 [Ноутбук построения моделей](https://github.com/nedokormysh/lin_models_presentation/blob/model_streamlit/project_classification_model.ipynb) 
+[Веб-сервис c EDA и развёрнутой моделью] (https://linmodelspresentation-3jgbekqezhgrjaboj4cgth.streamlit.app)
 
 ### Автор 
 * Илья Березуцкий
