@@ -53,7 +53,7 @@
 * исследовано влияние порога на метрики
 * также построены модели catboost, lightgbm для сравнения с результатом логистической регрессии
 
-📣 [Веб-сервис c EDA и развёрнутой моделью] (https://linmodelspresentation-3jgbekqezhgrjaboj4cgth.streamlit.app)
+📣 [Веб-сервис c EDA и развёрнутой моделью](https://linmodelspresentation-3jgbekqezhgrjaboj4cgth.streamlit.app)
 
 🔭 [Ноутбук построения моделей](https://github.com/nedokormysh/lin_models_presentation/blob/model_streamlit/project_classification_model.ipynb) 
 
