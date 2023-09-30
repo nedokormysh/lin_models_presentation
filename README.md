@@ -43,7 +43,8 @@
 * исследованы некорректные значения, дубликаты
 * построены графики распределений
 
-📣 [Веб-сервис c EDA](https://linmodelspresentation-lrkoeaehpxu6yhikide8gw.streamlit.app/)
+📣 [Веб-сервис c EDA](https://linmodelspresentation-l7ec3kme5gckddsm9oqpqj.streamlit.app)
+(old version, new is in model_st branch)
 
 🔭 [Ноутбук с полноценным анализом](https://github.com/nedokormysh/lin_models_presentation/blob/eda_streamlit/EDA.ipynb) 
 
